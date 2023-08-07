@@ -1,0 +1,33 @@
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\appsettings.json
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\xml deserialization.exe
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\xml deserialization.deps.json
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\xml deserialization.runtimeconfig.json
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\xml deserialization.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\xml deserialization.pdb
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.csproj.AssemblyReference.cache
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.AssemblyInfoInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.AssemblyInfo.cs
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.csproj.CoreCompileInputs.cache
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\staticwebassets\msbuild.xml deserialization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\staticwebassets\msbuild.build.xml deserialization.props
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.xml deserialization.props
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.xml deserialization.props
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\scopedcss\bundle\xml deserialization.styles.css
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.csproj.CopyComplete
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\refint\xml deserialization.dll
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.pdb
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\xml deserialization.genruntimeconfig.cache
+C:\Users\Jayant\Desktop\C# Workspace\xml deserialization\obj\Debug\net6.0\ref\xml deserialization.dll
